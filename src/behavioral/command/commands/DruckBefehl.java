@@ -1,4 +1,4 @@
-package behavioral.command;
+package behavioral.command.commands;
 
 public interface DruckBefehl {
     //jeder Befehl kapselt die Logik zur Ausführung
